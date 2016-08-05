@@ -1,0 +1,25 @@
+## Interface: 70000
+## Author: zork
+## Title: rLibOld
+## Notes: Library for rAddons
+
+core\dragframe.lua
+core\slashcmd.lua
+core\fader.lua
+
+
+rActiveSpellAlert\init.lua
+rActiveSpellAlert\config.lua
+rActiveSpellAlert\slashcmd.lua
+rActiveSpellAlert\core.lua
+
+rThreat\config.lua
+rThreat\slashcmd.lua
+rThreat\core.lua
+
+rBuffFrameStyler\config.lua
+rBuffFrameStyler\slashcmd.lua
+rBuffFrameStyler\core.lua
+
+
+
